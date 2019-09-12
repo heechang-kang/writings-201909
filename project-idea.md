@@ -1,8 +1,8 @@
-Project Idea
+# Project Idea
 
 by heechangkang
 
-Q&A
+## Q&A
 
 \# Why do we need value creation tool?  
 When living a life, we tend to form our characteristics and that is very unique
@@ -23,7 +23,7 @@ implementation and also the impact it can give to the society. Focusing on this
 point, building a website or a platform to collect data is important. Also with
 this data we should be able to form a pipeline.
 
-Goal : value creation platform
+## Goal : value creation platform
 
 -   Inspect
 
@@ -45,7 +45,7 @@ Goal : value creation platform
 
     Try to display the useful information for people to create their values.
 
-Project using data science
+## Project using data science
 
 Data science pipeline  
 the purpose of a data science project : make a prediction, find an insight
