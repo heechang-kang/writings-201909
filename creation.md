@@ -18,7 +18,7 @@ psychology -> social sicence -> books: novel, philosophy, poet -> ...
 ## contents
 1. help exploration : podcast + text + image with expert\
     whole system is meant to build a NN that is customized for the user but not just limited to a simple parameter, should be able to expand but ber focused; also try to divide oneself depending on the time-span or the condition
-2. help creation : \
+2. help creation :
    when people keep exploring they are also being able to create something on their own which means if there is a sufficient tool for them, they can enhance their value or explore new things in a new and effiecient way.(i think that's why YOUTUBE became a popular platform and expanding in a very fast way)
 3. make contents : \
    try to make contents that i am capable of creating
