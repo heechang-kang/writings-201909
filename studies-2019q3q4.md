@@ -9,25 +9,64 @@
  | basic CS understanding          | high level language(JAVA programming), data structure and algorithm, OS, network ... |
 
 ### ML study
-|                    |     |
-| ------------------ | --- |
-| udemy-ml           |     |
-| udemy-ds           |     |
-| appbrewery-ds      |     |
-| udemy-MLdeploy     |     |
-| udemy-azureML      |     |
-| azure-learningPath |     |
-| siraj-MLcourse     |     |
+| courses            |                              |
+| ------------------ | ---------------------------- |
+| udemy-ml           | ML basic concepts            |
+| udemy-ds           | DS basic practices           |
+| appbrewery-ds      | DS basic practices & projects |
+| udemy-MLdeploy     | ML project pipeline          |
+| udemy-azureML      | AzureML guidelines           |
+| azure-learningPath | Azure walkthrough            |
+| siraj-MLcourse     | ML projects                  |
+
+| skills |     |
+| ------ | --- |
+
+
+### Building platform
+#### web
+|          | skill      | detail               |
+| -------- | ---------- | -------------------- |
+| FrontEnd |            |                      |
+|          | design     | photoshop            |
+|          | language   | HTML, CSS, Bootstrap |
+|          | javascript | EJS, DOM             |
+|          |            |                      |
+|          |            |                      |
+| BackEnd  |            |                      |
+|          | nodejs     |                      |
+|          |            |                      |
+
+#### etc
+| platform | skill    | detail   |
+| -------- | -------- | -------- |
+| app      |          |          |
+|          | flutter  |          |
+|          | database | firebase |
+
 
 ### CS basics
-|             |                          |
-| ----------- | ------------------------ |
-| programming | java                     |
-| fundamental | datastructure, algorithm |
+|                 |                          |
+| --------------- | ------------------------ |
+| programming     | java                     |
+| fundamental     | datastructure, algorithm |
+| version control | git                      |
+| OS              | Linux,                   |
+| tool            | CLI                      |
 
-## business
 
-## politics
+
+## BUSINESS
+
+
+## POLITICS
+
+
+### comments
+- look into an issue and try to make a guideline for balancing and exploring
+-  
+
 
 ## phislosophy, social science
+
  
