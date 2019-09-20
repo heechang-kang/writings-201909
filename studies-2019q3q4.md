@@ -12,17 +12,20 @@
 
 ## pipeline
 
-|                  | skill | detail |
-| ---------------- | ----- | ------ |
-| getting data     |       |        |
-|                  |       |        |
-| cleaning data    |       |        |
-|                  |       |        |
-| Exploring        |       |        |
-|                  |       |        |
-| Model Building   |       |        |
-|                  |       |        |
-| Model Deployment |       |        |
+|                  | skill         | detail           |
+| ---------------- | ------------- | ---------------- |
+| getting data     |               |                  |
+| -sources-        |               |                  |
+| -skills-         |               | pandas, excel    |
+| cleaning data    |               |                  |
+|                  |               |                  |
+| Exploring        |               |                  |
+|                  | analysis tool | Tableau, PowerBI |
+| Model Building   |               |                  |
+|                  |               |                  |
+| Model Deployment |               |                  |
+|                  |               |                  |
+|                  |               |                  |
 
 
 ## courses
