@@ -11,7 +11,7 @@ skill sets I have to use
 ### 2019-09
  - I need to see that human's emotional state is headed in similar direction.
  - I need to find a way to enhance this activity by leading and showing them.
- - try to make a content based on politics & personal
+ - try to make a content based on politics & personaln
 
 ## purpose of this project
 people create values and understand the world by exploring and setting their mindset. Some live just for short-term happiness or long-term and every person has different weights on their values.

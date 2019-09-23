@@ -27,17 +27,54 @@
 |                  |               |                  |
 |                  |               |                  |
 
+## pipeline
+
+|                   | skill          | detail                      |
+| ----------------- | -------------- | --------------------------- |
+| explore tool      |                |                             |
+|                   |                | excel, sheet                |
+|                   |                | tableau, PowerBI            |
+| ML algorithm      |                |                             |
+|                   |                |                             |
+|                   |                |                             |
+|                   |                |                             |
+| coding basic      |                |                             |
+| -python-          | basic          | numpy, pandas, matplotlib   |
+|                   | ML library     | sckit-learn                 |
+|                   | NN library     | Keras                       |
+|                   | ML computation | Tensorflow, PyTorch, Theano |
+|                   |                |                             |
+|                   | Vision         | OpenCV                      |
+|                   | RL             | OpenAI gym                  |
+|                   | language       | NLTK                        |
+|                   |                |                             |
+|                   |                |                             |
+| -R-               |                |                             |
+|                   |                |                             |
+| - model library - |                | model zoo, tensorflow HUB   |
+|                   |                |                             |
+| cloud             |                |                             |
+| -azure-           | ML studio      |                             |
+|                   | AWS            | sagemaker                   |
+|                   |                |                             |
+|                   |                |                             |
+
+| coding source |                |                             |
+|               |                |                             |
+| -sources-     |                |                             |
+| -skills-      |                | pandas, excel               |
+| cleaning data |                |                             |
 
 ## courses
-| course name        |                               |
-| ------------------ | ----------------------------- |
-| udemy-ml           | ML basic concepts             |
-| udemy-ds           | DS basic practices            |
-| appbrewery-ds      | DS basic practices & projects |
-| udemy-MLdeploy     | ML project pipeline           |
-| udemy-azureML      | AzureML guidelines            |
-| azure-learningPath | Azure walkthrough             |
-| siraj-MLcourse     | ML projects                   |
+| course name        |                                         |
+| ------------------ | --------------------------------------- |
+| udemy-ml           | ML basic concepts                       |
+| udemy-ds           | DS basic practices                      |
+| appbrewery-ds      | DS basic practices & projects(bootcamp) |
+| udemy-MLdeploy     | ML project pipeline                     |
+| udemy-azureML      | AzureML guidelines                      |
+| azure-learningPath | Azure walkthrough                       |
+| siraj-MLcourse     | ML projects                             |
 
 
 
