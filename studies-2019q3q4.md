@@ -29,41 +29,52 @@
 
 ## pipeline
 
-|                   | skill          | detail                      |
-| ----------------- | -------------- | --------------------------- |
-| explore tool      |                |                             |
-|                   |                | excel, sheet                |
-|                   |                | tableau, PowerBI            |
-| ML algorithm      |                |                             |
-|                   |                |                             |
-|                   |                |                             |
-|                   |                |                             |
-| coding basic      |                |                             |
-| -python-          | basic          | numpy, pandas, matplotlib   |
-|                   | ML library     | sckit-learn                 |
-|                   | NN library     | Keras                       |
-|                   | ML computation | Tensorflow, PyTorch, Theano |
-|                   |                |                             |
-|                   | Vision         | OpenCV                      |
-|                   | RL             | OpenAI gym                  |
-|                   | language       | NLTK                        |
-|                   |                |                             |
-|                   |                |                             |
-| -R-               |                |                             |
-|                   |                |                             |
-| - model library - |                | model zoo, tensorflow HUB   |
-|                   |                |                             |
-| cloud             |                |                             |
-| -azure-           | ML studio      |                             |
-|                   | AWS            | sagemaker                   |
-|                   |                |                             |
-|                   |                |                             |
-
-| coding source |                |                             |
-|               |                |                             |
-| -sources-     |                |                             |
-| -skills-      |                | pandas, excel               |
-| cleaning data |                |                             |
+|                    | skill                    | detail                      |
+| ------------------ | ------------------------ | --------------------------- |
+| explore tool       |                          |                             |
+|                    |                          | excel, sheet                |
+|                    |                          | Tableau, PowerBI            |
+| ML algorithm       |                          |                             |
+|                    | regression               |                             |
+|                    | classification           |                             |
+|                    | clustering               |                             |
+|                    | association rule         |                             |
+|                    | RL                       |                             |
+|                    | DL                       |                             |
+|                    | Dimensionality Reduction |                             |
+| ML model selection |                          |                             |
+|                    |                          |                             |
+|                    |                          |                             |
+| CODING             |                          |                             |
+| -python-           | basic                    | numpy, pandas, matplotlib   |
+|                    | ML library               | sckit-learn                 |
+|                    | NN library               | Keras                       |
+|                    | ML computation           | Tensorflow, PyTorch, Theano |
+|                    |                          |                             |
+|                    | Vision                   | OpenCV                      |
+|                    | RL                       | OpenAI gym                  |
+|                    | language                 | NLTK                        |
+|                    |                          |                             |
+|                    |                          |                             |
+| -R-                |                          |                             |
+|                    |                          |                             |
+| - model library -  |                          | model zoo, tensorflow HUB   |
+|                    |                          |                             |
+| FIELD              |                          |                             |
+|                    | self-driving             |                             |
+|                    | finance                  | quantitative                |
+|                    | NLP                      |                             |
+| CLOUD              |                          |                             |
+| -azure-            | ML studio                |                             |
+|                    | AWS                      | sagemaker                   |
+|                    |                          |                             |
+|                    |                          |                             |
+|                    |                          |                             |
+| coding source      |                          |                             |
+|                    |                          |                             |
+| -sources-          |                          |                             |
+| -skills-           |                          | pandas, excel               |
+| cleaning data      |                          |                             |
 
 ## courses
 | course name        |                                         |
@@ -115,6 +126,7 @@
 |          | database     | firebase           |
 | desktop  |              |                    |
 |          | electron     | chromium & node.js |
+|          | javaFX       |                    |
 | API      |              |                    |
 |          | GraphQL      |                    |
 
@@ -133,11 +145,20 @@
 |            |                        |
 | ---------- | ---------------------- |
 | blockchain | solidity, coinbase API |
-|            |                        |
+| hacking    |                        |
+
+
 
 
 
 ## BUSINESS
+
+### finance
+finance market
+
+
+
+
 
 
 ## POLITICS
@@ -149,7 +170,12 @@
 
 
 
-## phislosophy, social science
+## philosophy, social science
+
+
+
+
+
 
 
 ## Language
